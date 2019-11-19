@@ -10,8 +10,7 @@ import java.util.ArrayList;
 /**
     Function Button
     计算器中高级功能键，提供函数计算功能
-    date        : 2019/11/14
-    version     : 1.0
+
  */
 public class FunctionButton extends JPanel {
     private ArrayList<JButton> btns = new ArrayList<JButton>();

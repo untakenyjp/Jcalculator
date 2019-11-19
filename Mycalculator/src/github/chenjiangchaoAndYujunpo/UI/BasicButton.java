@@ -11,8 +11,7 @@ import github.chenjiangchaoAndYujunpo.Listener.StyleAnimation;
 /**
     Basic Button
     计算器中的基本按键，提供最基本的加减乘除运算功能
-    date        : 2019/11/14
-    version     : 1.0
+
  */
 
 public class BasicButton extends JPanel {

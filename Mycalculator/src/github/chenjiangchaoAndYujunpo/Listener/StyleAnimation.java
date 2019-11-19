@@ -9,8 +9,7 @@ import java.util.ArrayList;
 /**
     StyleAnimation
     实现界面动画效果
-    date    : 2019/11/15
-    version : 1.0
+
  */
 
 public class StyleAnimation extends MouseAndKeyboardListener

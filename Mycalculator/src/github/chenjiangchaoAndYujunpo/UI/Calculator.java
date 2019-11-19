@@ -8,7 +8,7 @@ import java.awt.*;
 /**
     计算器主窗口，组织所有功能区
     date        : 2019/11/14
-    version     : 1.0
+    version     : 1.1.2
  */
 
 public class Calculator extends JFrame {

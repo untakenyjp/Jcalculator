@@ -128,7 +128,7 @@ public class ButtonResponse extends MouseAndKeyboardListener {
                         inputString.append(")");
                     }
                 }
-                //初始化 //TODO：似乎应该是false
+                //初始化 //TODO：似乎应该是false(未发现问题，不要动)
                 isNewNumber = true;
                 //检验计算
                 if(Checker.checker(inputString.toString()))
