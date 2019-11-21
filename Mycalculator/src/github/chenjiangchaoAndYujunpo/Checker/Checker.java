@@ -27,6 +27,10 @@ public class Checker {
 				add("/");
 			}
 		};
+		if (OperatorList.contains(String.valueOf(expression.charAt(expression.length()-1))) )
+		{
+			return false;
+		}
 		//遍历表达式
 		for (int i = 0; i < expression.length(); i++)
 		{

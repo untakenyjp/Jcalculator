@@ -397,6 +397,7 @@ public class ButtonResponse extends MouseAndKeyboardListener {
             isNewNumber = true;
             twoParam = false;
         }
+        System.out.println(inputString.toString());
         if(inputString.toString().equals("格式错误！") || inputString.toString().equals("Infinity"))
         {
             System.out.println(inputString.toString());
